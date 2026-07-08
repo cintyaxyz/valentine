@@ -1,4 +1,4 @@
-# Valentine's Day Quiz 2026 ❤️
+
 
 A white-label, interactive Valentine's Day quiz that generates a personalized love letter based on the recipient's
 answers. Built with React, Vite, and Tailwind CSS.
